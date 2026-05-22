@@ -70,8 +70,7 @@ Calculated:
 ## 3. Retention Analysis
 Analyzed:
 - returning users
-- retention curves
-- churn estimation
+- retention trend analysis
 
 ## 4. A/B Testing
 Compared Variant A vs Variant B using:
